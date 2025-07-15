@@ -10,7 +10,7 @@ A classic **Pong** game built with Python, simulating the iconic table tennis ar
 - **Single-player mode**: Play against computer-controlled opposition.
 - **Customizable controls and easy to modify.**
 - **Visual score tracking** and game-over display.
-- Clean and readable, well-documented Python code.
+- Clean and readable, well-documented Python code with the official PEP-8 formatting.
 
 ---
 

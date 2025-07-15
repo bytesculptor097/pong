@@ -20,6 +20,8 @@ A classic **Pong** game built with Python, simulating the iconic table tennis ar
 - [How to Play](#how-to-play)
 - [Usage](#usage)
 - [File Structure](#file-structure)
+- [Requirements](#requirements)
+- [Contribution](#contribution)
 - [License](#license)
 
 ---
@@ -78,6 +80,25 @@ Enjoy the game window that appears! For two players, use the assigned keys to co
 
 
 ---
+
+## Contribution
+
+Thank you for your interest in contributing to this Pong game!
+
+Here are some ideas and wishes to improve the game:
+- Add sound effects and background music.
+- Implement AI to play against.
+- Improve graphics and animations.
+- Add multiplayer support over a network.
+- Optimize performance and fix bugs.
+
+If you'd like to help, please feel free to:
+- Fork the repository,
+- Create a new branch for your feature or fix,
+- Submit a pull request with a clear description.
+
+Your contributions are highly appreciated!
+
 
 ## License
 

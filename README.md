@@ -21,6 +21,7 @@ A classic **Pong** game built with Python, simulating the iconic table tennis ar
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Requirements](#requirements)
+- [Video](#video-demonstration)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -80,6 +81,12 @@ Enjoy the game window that appears! For two players, use the assigned keys to co
 
 
 ---
+## Video demonstration
+
+https://github.com/user-attachments/assets/9c25430f-1143-45ed-9e6f-904084fbe888
+
+---
+
 
 ## Contribution
 

@@ -86,9 +86,9 @@ Enjoy the game window that appears! For two players, use the assigned keys to co
 Thank you for your interest in contributing to this Pong game!
 
 Here are some ideas and wishes to improve the game:
-- Add sound effects and background music.
-- Implement AI to play against.
-- Improve graphics and animations.
+
+- Add the pause and Quit button in the middle of game.
+- Add options to customize the paddle and ball (like style colors etc.)
 - Add multiplayer support over a network.
 - Optimize performance and fix bugs.
 
@@ -99,6 +99,7 @@ If you'd like to help, please feel free to:
 
 Your contributions are highly appreciated!
 
+---
 
 ## License
 
